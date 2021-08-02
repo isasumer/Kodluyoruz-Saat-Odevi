@@ -1,5 +1,6 @@
-body {
-    background: black;
+.bg-dark {
+    background-color: rgb(61, 60, 60);
+    text-align: center;
   }
   
   .clock {
@@ -30,7 +31,6 @@ body {
     margin-right: 100px;
     margin-left: 100px;
   }
-  
    img {
        margin-top: 120px;
        width: 17%;
